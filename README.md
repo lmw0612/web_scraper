@@ -11,6 +11,7 @@
 Sylvian Shen  who is currently a Back-End developer at Codementor provided this project to create a Python based web scraper. 
 The aim of this web scraper is to derive the contents of a news articles from given news URL.
 
+
 URL Examples:
 
 - https://www.nytimes.com/2020/09/02/opinion/remote-learning-coronavirus.html
@@ -26,4 +27,10 @@ pip install -r requirements.txt
 ```
 
 ---
+### Reference 
+
+[Towards Data Science Reference ](https://towardsdatascience.com/scraping-1000s-of-news-articles-using-10-simple-steps-d57636a49755)
+
+---
 ### Work In Progress...
+- Create a CSV File 
