@@ -1,7 +1,5 @@
 ## A DevProject for a web scraper to get news article content
 
-
-*** 
 - Link for this project: 
 [DevProject](https://www.codementor.io/projects/web-scraper-to-get-news-article-content-atx32d46qe)
 
