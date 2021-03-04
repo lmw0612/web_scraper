@@ -5,7 +5,7 @@
 - Link for this project: 
 [DevProject](https://www.codementor.io/projects/web-scraper-to-get-news-article-content-atx32d46qe)
 
---- 
+
 
 ### Overview
 Sylvian Shen  who is currently a Back-End developer at Codementor provided this project to create a Python based web scraper. 
@@ -21,16 +21,16 @@ URL Examples:
 
 ### Requirements
 
---- 
+
 ```python
 pip install -r requirements.txt
 ```
 
----
+
 ### Reference 
 
-[Towards Data Science Reference ](https://towardsdatascience.com/scraping-1000s-of-news-articles-using-10-simple-steps-d57636a49755)
+[Reference 1](https://towardsdatascience.com/scraping-1000s-of-news-articles-using-10-simple-steps-d57636a49755) <br>
+[Reference 2](https://towardsdatascience.com/scraping-1000s-of-news-articles-using-10-simple-steps-d57636a49755)
 
----
 ### Work In Progress...
 - Create a CSV File 
